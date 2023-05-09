@@ -12,3 +12,6 @@ This line is added from VSCode - 444
 This line is added from VSCode - 555
 This line is added from Github repo - 555
 This line is added from Github repo - 666
+This line is added from VSCode - 666
+This line is added from VSCode - 777
+This line is added from VSCode - 888
