@@ -7,3 +7,6 @@ This line is added from VSCode - 222
 This line is added from Github repo - 222
 This line is added from Github repo - 333
 This line is added from Github repo - 444
+This line is added from VSCode - 333
+This line is added from VSCode - 444
+This line is added from VSCode - 555
