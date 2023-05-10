@@ -8,3 +8,7 @@ testing line from vscode 222
 testing line from vscode 333
 testing line from GITHUB 111
 testing line from GITHUB 222
+testing line from vscode 444
+testing line from vscode 555
+testing line from vscode 666
+testing line from vscode 777
